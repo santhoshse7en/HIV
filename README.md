@@ -19,6 +19,6 @@
 - Keywords
 - Summary
 
-***Add proper comments for better understanding Collect all the above information with appropriate column headers and store the data in csv/sheet. Add code under the folder of your name on GitHub.***
+***Every code placed under selected region folder and proper comments are added to every piece of code for better understanding. Above information with appropriate column headers and stored the data in csv/sheet.***
 
 - [ ] Data Extraction...
