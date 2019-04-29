@@ -19,6 +19,6 @@
 - Keywords
 - Summary
 
-***Every code placed under selected region folder and proper comments are added to every piece of code for better understanding. Above information with appropriate column headers and stored the data in csv/sheet.***
+***Every code placed under selected region folder and proper comments are added to every piece of code for better understanding. Above collected information with appropriate column headers and stored the data in csv/sheet.***
 
 - [ ] Data Extraction...
