@@ -56,7 +56,6 @@ $ pip install pandas
        # Extracts the digits if it the resulted number without comma ','. eg: About 1,080 results (0.23 seconds)
        max_pages = round(int(''.join(i for i in soup.select_one('div#resultStats').text if i.isdigit()))/10)
        max_pages = max_pages + 1
-
    ```
 
 - Scraping the resulted urls by iterating the max_pages through while loop  
