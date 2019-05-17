@@ -24,7 +24,7 @@
 - Keywords
 - Summary
 
- ***Proper comments are added for better understanding. All the above information with appropriate column headers and store the data in csv/sheet. Code and CSV fiels are stored under the folder.***
+For each code files Proper comments are added for better understanding. All the above information with appropriate column headers and store the data in csv/sheet. Code and CSV fiels are stored under the folder.
  
 **The main aim of this project is to collect and analyze the information about of HIV in society.**
 
