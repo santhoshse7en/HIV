@@ -1,6 +1,6 @@
 # HIV
 
- **Web scraping for HIV and AIDS articles from targeted regions**
+Research Project to analyse the news articles about HIV & AIDS from various newspaper regions. Data Extraction of HIV and AIDS articles from targeted regions and which is mostly on daily english newspaper publications.
 
  *For publication, top 5 or top 10 newspapers from targeted regions with duration from (2000 - 2019)*
 
