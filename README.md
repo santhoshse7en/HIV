@@ -29,7 +29,8 @@ For each code files Proper comments are added for better understanding. All the 
 **The main aim of this project is to collect and analyze the information about of HIV in society.**
 
  - [x] Data Extraction
- - [ ] Analysis...
+ - [x] Analyzing the Data
+ - [ ] Publish the Paper
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
